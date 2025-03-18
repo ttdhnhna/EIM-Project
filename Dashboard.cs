@@ -36,14 +36,14 @@ namespace EIM_Project
 
         private void label20_Click(object sender, EventArgs e)
         {
-            IncomeDetail obj = new IncomeDetail();
+            ListIncomes obj = new ListIncomes();
             obj.Show();
             this.Hide();
         }
 
         private void label19_Click(object sender, EventArgs e)
         {
-            ExpenseDetail obj = new ExpenseDetail();
+            ListExpenses obj = new ListExpenses();
             obj.Show();
             this.Hide();
         }

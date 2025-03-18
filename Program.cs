@@ -16,7 +16,7 @@ namespace EIM_Project
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ListIncomes());
+            Application.Run(new Login());
         }
     }
 }

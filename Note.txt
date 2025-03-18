@@ -1,1 +1,3 @@
-﻿dang tao do giao dien trang chu, can kich thuoc chuan
+﻿dang tao do giao dien trang chu
+da tao xong giao dien trang dang nhap va dang ky
+nhung dang bi loi nen can sua lai.
