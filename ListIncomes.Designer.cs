@@ -1,6 +1,6 @@
 ﻿namespace EIM_Project
 {
-    partial class Form1
+    partial class ListIncomes
     {
         /// <summary>
         /// Required designer variable.

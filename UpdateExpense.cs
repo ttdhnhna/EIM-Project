@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EIM_Project
 {
-    public partial class Form1 : Form
+    public partial class UpdateExpense: Form
     {
-        public Form1()
+        public UpdateExpense()
         {
             InitializeComponent();
         }
