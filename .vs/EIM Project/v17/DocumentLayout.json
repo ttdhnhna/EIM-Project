@@ -3,8 +3,13 @@
   "WorkspaceRootPath": "C:\\Code\\EIM-Project\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{FB18009E-6516-4EE9-B2D7-F5494FEC1C2D}|EIM Project.csproj|C:\\Code\\EIM-Project\\note.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{FB18009E-6516-4EE9-B2D7-F5494FEC1C2D}|EIM Project.csproj|solutionrelative:note.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+=======
+      "AbsoluteMoniker": "D:0:0:{FB18009E-6516-4EE9-B2D7-F5494FEC1C2D}|EIM Project.csproj|D:\\FITHOU\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\EIM Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB18009E-6516-4EE9-B2D7-F5494FEC1C2D}|EIM Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 7bdaa12dad1739de5bd004579afb91bbed557027
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +32,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Note.txt",
               "DocumentMoniker": "C:\\Code\\EIM-Project\\Note.txt",
               "RelativeDocumentMoniker": "Note.txt",
@@ -36,6 +42,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-03-18T16:39:01.447Z",
               "EditorCaption": ""
+=======
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\FITHOU\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\EIM Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\FITHOU\\L\u1EADp tr\u00ECnh h\u01B0\u1EDBng s\u1EF1 ki\u1EC7n\\EIM Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:50:51.387Z",
+              "EditorCaption": " [Design]"
+>>>>>>> 7bdaa12dad1739de5bd004579afb91bbed557027
             }
           ]
         }
